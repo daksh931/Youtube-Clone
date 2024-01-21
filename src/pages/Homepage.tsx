@@ -1,6 +1,6 @@
 import Navbar from '../components/Navbar'
 import Card from '../components/Card'
-
+import Categories from '../components/Categories'
 
 export default function Homepage() {
   // dummy data 
@@ -176,6 +176,7 @@ export default function Homepage() {
 return (
     <>
         <Navbar />
+        <Categories />
         <div className='grid grid-cols-1 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 '>
             {Datas.map( data=> <div> 
                     <Card 
@@ -187,6 +188,7 @@ return (
             </div>)}
 
         </div>
+     
     </>
 )
 }

@@ -1,0 +1,23 @@
+export const categories = [
+    "All",
+    "Java",
+    "Python",
+    "2024",
+    "Ram Mandir",
+    "Seva",
+    "Mahakal",
+    "C++",
+    "India",
+    "Vibrant",
+    "All1",
+    "Java1",
+    "Python1",
+    "20241",
+    "Ram Mandir1",
+    "Seva1",
+    "Mahakal1",
+    "C++1",
+    "India1",
+    "Vibrant1",
+    
+]
