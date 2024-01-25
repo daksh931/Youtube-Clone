@@ -23,7 +23,7 @@ export default function Navbar() {
                     </div>
 
                     <h4 className="px-1 font-serif">
-                        YouTube
+                        YouTube Clone
                     </h4>
                 </div>
 
