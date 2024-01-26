@@ -22,8 +22,8 @@ export default function Card(props:any) {
               
                       {props.title}
                   </h2>
-                  <p className="text-slate-600 text-sm ">{props.author} </p>
-                  <p className="text-slate-600 text-sm ">{props.timestamp}</p>
+                  <p className="text-slate-700 text-sm ">{props.author} </p>
+                  <p className="text-slate-700 text-sm ">{props.timestamp}</p>
                             
               </div>
           </div>

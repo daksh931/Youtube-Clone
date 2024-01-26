@@ -70,7 +70,7 @@ export default function Categories() {
                     if(newTranslate + width >= edge){
                         return edge - width
                     }
-                    return newTranslate;
+                    return newTranslate
                 })
 
                 }}>
